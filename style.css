@@ -1,0 +1,108 @@
+.conteinar{
+    margin: 0 auto;
+    
+    background-color: #f0f2f5;
+    max-width: 300px;
+    text-align: center;
+    padding: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+   
+}
+h1{
+    color: rgb(50, 20, 220);
+}
+h3{
+    color: rgb(38, 0, 255);
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.phone{
+    padding: 20px;
+    
+
+}
+.password{
+    padding: 10px;
+
+}
+.pass:hover{
+    background-color: aquamarine;
+   
+}
+.email{
+    width: 250px;
+    padding: 10px;
+}
+.email:hover{
+   background-color: aqua;
+}
+.pass{
+    width: 250px;
+    padding: 10px;
+
+}
+.log{
+    background-color: blue;
+    text-align: center;
+    display: block;
+    padding: 7px;
+    color: azure;
+    width: 300px;
+    margin: 0 auto;
+    border-radius: 7%;
+
+   
+    
+}
+.forget{
+    padding: 4px;
+    cursor: help;
+    
+    
+}
+
+a{
+    color: blue;
+}
+.or{
+    padding: 50px;
+    color: rgb(47, 0, 255);
+   
+}
+.creat{
+    background-color: blue;
+    text-align: center;
+    display: block;
+    padding: 7px;
+    color: azure;
+    width: 300px;
+    margin: 0 auto;
+    cursor: all-scroll;
+}
+.creat:hover{
+    color: aqua;
+}
+h4{
+   text-decoration: line-through;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
